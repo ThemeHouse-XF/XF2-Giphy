@@ -1,0 +1,12 @@
+{
+    "edit_format": "select",
+    "edit_format_params": "y=Y\ng=G\npg=PG\npg-13=PG-13\nr=R",
+    "data_type": "string",
+    "sub_options": [],
+    "validation_class": "",
+    "validation_method": "",
+    "default_value": "g",
+    "relations": {
+        "th_giphy": 1
+    }
+}

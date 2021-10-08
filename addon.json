@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "[TH] Giphy",
+    "description": "",
+    "version_id": 1000570,
+    "version_string": "1.0.5",
+    "dev": "ThemeHouse",
+    "dev_url": "https://www.themehouse.com",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": "icon.png"
+}

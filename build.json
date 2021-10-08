@@ -1,0 +1,7 @@
+{
+    "additional_files": [
+        "js/themehouse/giphy",
+        "styles/themehouse/giphy"
+    ],
+    "minify": "*"
+}

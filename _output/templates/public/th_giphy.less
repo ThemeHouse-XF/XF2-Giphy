@@ -1,0 +1,18 @@
+.th_giphyBox {
+  display: none;
+  //margin-top: 20px;
+
+  & .slickButton {
+      display: flex;
+  }
+}
+.th_giphyBox.is-active { display: block; }
+.slick-arrow{min-width:80px;}
+.slick-prev{margin-right: 3px;}
+.th_gif{height:120px; width:auto !important;}
+.slick-arrow,.th_gif,#th_giphySearchButton:hover { cursor: pointer;}
+.th_giphySearchResults{ margin-top:15px; }
+#th_giphySearchInput{margin-right: 5px;}
+.overlay-content .th_giphyBox{padding:10px;}
+
+a[data-cmd='thGiphy'] img {max-width: 18px;}

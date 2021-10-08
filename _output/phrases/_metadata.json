@@ -1,0 +1,152 @@
+{
+    "option.th_apiKey_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "d876ff8da67c3731ae25d8335a4168b4"
+    },
+    "option.th_giphy_insertMethod.txt": {
+        "global_cache": false,
+        "version_id": 1000211,
+        "version_string": "1.0.2 Alpha 1",
+        "hash": "96a797e860f0ec2f60b1e0f6d297d930"
+    },
+    "option.th_rating_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "5c5e1dee679ebd8b83db8aa2b1b68443"
+    },
+    "option.th_style_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "ae284f900f9d6e21ba69144cfc91e41b"
+    },
+    "option_explain.th_apiKey_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.th_giphy_insertMethod.txt": {
+        "global_cache": false,
+        "version_id": 1000211,
+        "version_string": "1.0.2 Alpha 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.th_rating_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.th_style_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_group.th_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "e113a31914437936e6709937be509c56"
+    },
+    "option_group_description.th_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "style_prop.th_giphyIconType_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000392,
+        "version_string": "1.0.3 Patch Level 2",
+        "hash": "8684ab58b5df21f451c3758f72487077"
+    },
+    "style_prop.th_giphyIconValue_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "13566bb6fd13f1935f70c7ae3b797acd"
+    },
+    "style_prop_desc.th_giphyIconType_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "style_prop_desc.th_giphyIconValue_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "27966d412a1e9980afb2c341159e6077"
+    },
+    "style_prop_group.th_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "e113a31914437936e6709937be509c56"
+    },
+    "style_prop_group_desc.th_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "th_below_editor_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "18b3bc9b7c57fbbf713645a4d781fbd1"
+    },
+    "th_font_awesome_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "0a686c94398d9aa95125a33c8a31c1b6"
+    },
+    "th_insert_giphy_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "1a30af6e18ca8da087e52002d53a65d2"
+    },
+    "th_modal_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "c59d6df802c32f037c2a15ff75faec17"
+    },
+    "th_next_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "10ac3d04253ef7e1ddc73e6091c0cd55"
+    },
+    "th_prev_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "14230d11143a03f4330c6433d5032a9d"
+    },
+    "th_search_giphy.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "13348442cc6a27032d2b4aa28b75a5d3"
+    },
+    "thgiphy_no_search_results.txt": {
+        "global_cache": false,
+        "version_id": 1000370,
+        "version_string": "1.0.3",
+        "hash": "7c31940f2000580a03e484128ee36b5e"
+    },
+    "thgiphy_search_for_gifs.txt": {
+        "global_cache": false,
+        "version_id": 1000370,
+        "version_string": "1.0.3",
+        "hash": "b4b5460cddcefeb2937a0f12328c2d50"
+    }
+}

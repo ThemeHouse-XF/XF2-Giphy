@@ -1,0 +1,12 @@
+{
+    "edit_format": "select",
+    "edit_format_params": "modal={{ phrase('th_modal_giphy') }}\nbelow_editor={{ phrase('th_below_editor_giphy') }}",
+    "data_type": "string",
+    "sub_options": [],
+    "validation_class": "",
+    "validation_method": "",
+    "default_value": "modal",
+    "relations": {
+        "th_giphy": 1
+    }
+}

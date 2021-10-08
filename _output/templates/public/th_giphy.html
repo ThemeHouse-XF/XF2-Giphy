@@ -1,0 +1,31 @@
+<xf:js src="themehouse/giphy/giphy.js" min="1" addon="ThemeHouse/Giphy" />
+<xf:js src="themehouse/giphy/vendor/slick.js" min="1" addon="ThemeHouse/Giphy" />
+<xf:css src="th_slick_giphy.css" />
+<xf:css src="th_giphy.less" />
+
+<xf:page option="th_giphyJs">
+	<script>
+        var th_giphyIcon = {
+            type: '{{ property('th_giphyIconType_giphy') }}',
+			<xf:if is="property('th_giphyIconType_giphy') == 'image'">
+			value: '{{ base_url(property('th_giphyIconValue_giphy')) }}'
+			<xf:else />
+			value: '{{ property('th_giphyIconValue_giphy') }}'
+			</xf:if>
+		};
+	</script>
+</xf:page>
+
+<xf:js>
+	themehouse.giphy.attributionPath = '{{ base_url('styles/themehouse/giphy/giphy-logo.png') }}';
+	themehouse.giphy.options.requestUrl = '{{ link('misc/giphy-api', '', {'q': '%query%'}) }}';
+	themehouse.giphy.options.style = '{$xf.options.th_style_giphy}';
+	themehouse.giphy.options.insertMethod = '{$xf.options.th_giphy_insertMethod}';
+
+	jQuery.extend(XF.phrases, {
+		prev: "{{ phrase('prev') }}",
+		next: "{{ phrase('next') }}",
+		search: "{{ phrase('search') }}",
+		th_insert_giphy_giphy: "{{ phrase('th_insert_giphy_giphy') }}",
+	});
+</xf:js>

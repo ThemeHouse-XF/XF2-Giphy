@@ -1,0 +1,12 @@
+{
+    "edit_format": "select",
+    "edit_format_params": "media={{ phrase('media') }}\nimage={{ phrase('image') }}",
+    "data_type": "string",
+    "sub_options": [],
+    "validation_class": "",
+    "validation_method": "",
+    "default_value": "media",
+    "relations": {
+        "th_giphy": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "public/th_giphy.html": {
+        "version_id": 1000392,
+        "version_string": "1.0.3 Patch Level 2",
+        "hash": "bf4b3d94289dbfdfeb4bf4a7ea2620d9"
+    },
+    "public/th_giphy.less": {
+        "version_id": 1000270,
+        "version_string": "1.0.2",
+        "hash": "6fe07bb2dc9889db4c9854d4b334be34"
+    },
+    "public/th_giphy_macros_giphy.html": {
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "979772642b7c27bd5789693838c68f99"
+    },
+    "public/th_slick_giphy.css": {
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "14e6b18c07e7f8263bf428be3be5cb8e"
+    }
+}

@@ -1,0 +1,1 @@
+If using FontAwesome, do not include the "fa fa-" prefix

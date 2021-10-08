@@ -1,0 +1,9 @@
+{
+    "template": "helper_js_global",
+    "description": "Add giphy phrases to global phrase object",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "push_enable_notification_title:",
+    "replace": "\t\t\tthgiphy_search_for_gifs: \"{{ phrase('thgiphy_search_for_gifs')|escape('js') }}\",\n\t\t\tthgiphy_no_search_results: \"{{ phrase('thgiphy_no_search_results')|escape('js') }}\",\n\t\t\t\n\n\t\t\t$0"
+}

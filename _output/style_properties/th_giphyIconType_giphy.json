@@ -1,0 +1,13 @@
+{
+    "group_name": "th_giphy",
+    "title": "Icon type for Giphy editor icon",
+    "description": "",
+    "property_type": "value",
+    "css_components": [],
+    "value_type": "select",
+    "value_parameters": "image={{ phrase('image') }}\nfont={{ phrase('th_font_awesome_giphy') }}",
+    "depends_on": "",
+    "value_group": "",
+    "property_value": "image",
+    "display_order": 0
+}

@@ -1,0 +1,9 @@
+{
+    "event_id": "editor_button_data",
+    "execute_order": 10,
+    "callback_class": "ThemeHouse\\Giphy\\Listener\\EditorButtonData",
+    "callback_method": "run",
+    "active": true,
+    "hint": "",
+    "description": ""
+}

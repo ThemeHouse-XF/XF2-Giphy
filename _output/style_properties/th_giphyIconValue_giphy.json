@@ -1,0 +1,13 @@
+{
+    "group_name": "th_giphy",
+    "title": "Giphy icon value",
+    "description": "If using FontAwesome, do not include the \"fa fa-\" prefix",
+    "property_type": "value",
+    "css_components": [],
+    "value_type": "string",
+    "value_parameters": "",
+    "depends_on": "",
+    "value_group": "",
+    "property_value": "styles/themehouse/giphy/giphy.png",
+    "display_order": 0
+}
